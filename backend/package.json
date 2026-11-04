@@ -1,0 +1,24 @@
+{
+  "name": "learnix-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Secure Learnix API for Gemini chat",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test src/question-bank.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "firebase-admin": "^13.5.0",
+    "express": "^5.1.0",
+    "serverless-http": "^3.2.0",
+    "dotenv": "^16.6.1",
+    "cheerio": "^1.1.2",
+    "docx": "^9.5.1"
+  }
+}

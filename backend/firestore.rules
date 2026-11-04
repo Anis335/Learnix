@@ -1,0 +1,23 @@
+rules_version = '2';
+service cloud.firestore {
+ match /databases/{database}/documents {
+  match /users/{userId}/private/{document} {
+   allow read, write: if request.auth != null && request.auth.uid == userId;
+  }
+  match /users/{userId}/notes/{noteId} {
+   allow read, write, delete: if request.auth != null && request.auth.uid == userId;
+  }
+  match /users/{userId}/chats/{chatId} {
+   allow read, write, delete: if request.auth != null && request.auth.uid == userId;
+  }
+  // Test records contain private answer keys and are accessed only by the Admin SDK.
+  match /users/{userId}/tests/{testId} {
+   allow read, write: if false;
+  }
+  // Feedback is private to the Learnix backend. Reviews are read through the
+  // authenticated API so user IDs and moderation metadata are never exposed.
+  match /studentFeedback/{feedbackId} { allow read, write: if false; }
+  match /websiteReviews/{reviewId} { allow read, write: if false; }
+  match /{document=**} { allow read, write: if false; }
+ }
+}

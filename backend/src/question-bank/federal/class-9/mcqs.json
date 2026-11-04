@@ -1,0 +1,3602 @@
+[
+  {
+    "subject": "Physics",
+    "number": 1,
+    "question": "Which of the following is a derived unit?",
+    "options": [
+      {
+        "id": "A",
+        "text": "kilogram"
+      },
+      {
+        "id": "B",
+        "text": "metre"
+      },
+      {
+        "id": "C",
+        "text": "newton"
+      },
+      {
+        "id": "D",
+        "text": "second"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-1",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Physics",
+    "number": 2,
+    "question": "A vernier caliper has a least count of 0.01 cm. The main scale reads 2.3 cm and the 4th vernier division coincides with a main scale division. The measurement is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.27 cm"
+      },
+      {
+        "id": "B",
+        "text": "2.34 cm"
+      },
+      {
+        "id": "C",
+        "text": "2.43 cm"
+      },
+      {
+        "id": "D",
+        "text": "2.70 cm"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-2",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Physics",
+    "number": 3,
+    "question": "A screw gauge has a pitch of 0.5 mm and 50 divisions on its circular scale. Its least count is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.1 mm"
+      },
+      {
+        "id": "B",
+        "text": "0.5 mm"
+      },
+      {
+        "id": "C",
+        "text": "0.01 mm"
+      },
+      {
+        "id": "D",
+        "text": "0.001 mm"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-3",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Physics",
+    "number": 4,
+    "question": "A straight line parallel to the time axis on a velocity-time graph represents:",
+    "options": [
+      {
+        "id": "A",
+        "text": "uniform acceleration"
+      },
+      {
+        "id": "B",
+        "text": "uniform velocity"
+      },
+      {
+        "id": "C",
+        "text": "rest"
+      },
+      {
+        "id": "D",
+        "text": "increasing acceleration"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-4",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Physics",
+    "number": 5,
+    "question": "A car starts from rest and accelerates uniformly at 2 m/s² for 5 s. The distance covered is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 m"
+      },
+      {
+        "id": "B",
+        "text": "20 m"
+      },
+      {
+        "id": "C",
+        "text": "25 m"
+      },
+      {
+        "id": "D",
+        "text": "50 m"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-5",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Physics",
+    "number": 6,
+    "question": "A net force acts on a 5 kg body and produces an acceleration of 3 m/s². The force is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1.67 N"
+      },
+      {
+        "id": "B",
+        "text": "8 N"
+      },
+      {
+        "id": "C",
+        "text": "15 N"
+      },
+      {
+        "id": "D",
+        "text": "20 N"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-6",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Physics",
+    "number": 7,
+    "question": "A gun of mass 4 kg fires a 0.02 kg bullet at 300 m/s. The recoil velocity of the gun is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1.5 m/s"
+      },
+      {
+        "id": "B",
+        "text": "6 m/s"
+      },
+      {
+        "id": "C",
+        "text": "15 m/s"
+      },
+      {
+        "id": "D",
+        "text": "0.15 m/s"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-7",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "A",
+    "explanation": null
+  },
+  {
+    "subject": "Physics",
+    "number": 8,
+    "question": "A force of 20 N acts at a perpendicular distance of 0.5 m from a pivot. The torque is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 N m"
+      },
+      {
+        "id": "B",
+        "text": "40 N m"
+      },
+      {
+        "id": "C",
+        "text": "20 N m"
+      },
+      {
+        "id": "D",
+        "text": "0.025 N m"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-8",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "A",
+    "explanation": null
+  },
+  {
+    "subject": "Physics",
+    "number": 9,
+    "question": "If the distance between two masses is doubled, the gravitational force between them becomes:",
+    "options": [
+      {
+        "id": "A",
+        "text": "double"
+      },
+      {
+        "id": "B",
+        "text": "half"
+      },
+      {
+        "id": "C",
+        "text": "one-fourth"
+      },
+      {
+        "id": "D",
+        "text": "four times"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-9",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Physics",
+    "number": 10,
+    "question": "Taking g on the Moon as one-sixth of g on Earth (9.8 m/s²), the weight of a 12 kg object on the Moon is about:",
+    "options": [
+      {
+        "id": "A",
+        "text": "117.6 N"
+      },
+      {
+        "id": "B",
+        "text": "19.6 N"
+      },
+      {
+        "id": "C",
+        "text": "12 N"
+      },
+      {
+        "id": "D",
+        "text": "70.6 N"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-10",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Physics",
+    "number": 11,
+    "question": "The work done in lifting a 10 kg load through 5 m (g = 10 m/s²) is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "50 J"
+      },
+      {
+        "id": "B",
+        "text": "150 J"
+      },
+      {
+        "id": "C",
+        "text": "500 J"
+      },
+      {
+        "id": "D",
+        "text": "5000 J"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-11",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Physics",
+    "number": 12,
+    "question": "The kinetic energy of a 2 kg body moving at 4 m/s is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "8 J"
+      },
+      {
+        "id": "B",
+        "text": "16 J"
+      },
+      {
+        "id": "C",
+        "text": "32 J"
+      },
+      {
+        "id": "D",
+        "text": "4 J"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-12",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Physics",
+    "number": 13,
+    "question": "A force of 100 N acts normally on an area of 0.5 m². The pressure is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "50 Pa"
+      },
+      {
+        "id": "B",
+        "text": "200 Pa"
+      },
+      {
+        "id": "C",
+        "text": "100 Pa"
+      },
+      {
+        "id": "D",
+        "text": "20 Pa"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-13",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Physics",
+    "number": 14,
+    "question": "The heat needed to raise the temperature of 2 kg of water by 5 K (c = 4200 J kg⁻¹ K⁻¹) is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "4200 J"
+      },
+      {
+        "id": "B",
+        "text": "21000 J"
+      },
+      {
+        "id": "C",
+        "text": "42000 J"
+      },
+      {
+        "id": "D",
+        "text": "84000 J"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-14",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Physics",
+    "number": 15,
+    "question": "Which mode of heat transfer does NOT require a material medium?",
+    "options": [
+      {
+        "id": "A",
+        "text": "conduction"
+      },
+      {
+        "id": "B",
+        "text": "convection"
+      },
+      {
+        "id": "C",
+        "text": "radiation"
+      },
+      {
+        "id": "D",
+        "text": "both conduction and convection"
+      }
+    ],
+    "id": "fbise-c9-mcq-physics-15",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 1,
+    "question": "The number of moles in 36 g of water (H = 1, O = 16) is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "3"
+      },
+      {
+        "id": "D",
+        "text": "0.5"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-1",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 2,
+    "question": "The molecular mass of H₂SO₄ (H = 1, S = 32, O = 16) is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "49 amu"
+      },
+      {
+        "id": "B",
+        "text": "82 amu"
+      },
+      {
+        "id": "C",
+        "text": "98 amu"
+      },
+      {
+        "id": "D",
+        "text": "96 amu"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-2",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 3,
+    "question": "Isotopes of an element have the same:",
+    "options": [
+      {
+        "id": "A",
+        "text": "mass number"
+      },
+      {
+        "id": "B",
+        "text": "number of neutrons"
+      },
+      {
+        "id": "C",
+        "text": "atomic number"
+      },
+      {
+        "id": "D",
+        "text": "physical properties"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-3",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 4,
+    "question": "The electronic configuration of chlorine (Z = 17) is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "2, 8, 6"
+      },
+      {
+        "id": "B",
+        "text": "2, 8, 7"
+      },
+      {
+        "id": "C",
+        "text": "2, 7, 8"
+      },
+      {
+        "id": "D",
+        "text": "2, 8, 8"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-4",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 5,
+    "question": "An element with electronic configuration 2, 8, 2 belongs to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Group IIA, Period 2"
+      },
+      {
+        "id": "B",
+        "text": "Group IIA, Period 3"
+      },
+      {
+        "id": "C",
+        "text": "Group IIIA, Period 2"
+      },
+      {
+        "id": "D",
+        "text": "Group VIIA, Period 3"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-5",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 6,
+    "question": "Which compound contains an ionic bond?",
+    "options": [
+      {
+        "id": "A",
+        "text": "HCl"
+      },
+      {
+        "id": "B",
+        "text": "CH₄"
+      },
+      {
+        "id": "C",
+        "text": "NaCl"
+      },
+      {
+        "id": "D",
+        "text": "H₂O"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-6",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 7,
+    "question": "The bond between the two atoms in a nitrogen molecule (N₂) is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "single"
+      },
+      {
+        "id": "B",
+        "text": "double"
+      },
+      {
+        "id": "C",
+        "text": "triple"
+      },
+      {
+        "id": "D",
+        "text": "ionic"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-7",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 8,
+    "question": "Water is a polar molecule mainly because:",
+    "options": [
+      {
+        "id": "A",
+        "text": "it is liquid"
+      },
+      {
+        "id": "B",
+        "text": "of its bent shape and electronegativity difference"
+      },
+      {
+        "id": "C",
+        "text": "it has ionic bonds"
+      },
+      {
+        "id": "D",
+        "text": "it has no lone pairs"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-8",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 9,
+    "question": "A gas occupies 4 L at 1 atm. At constant temperature, its volume at 2 atm will be:",
+    "options": [
+      {
+        "id": "A",
+        "text": "8 L"
+      },
+      {
+        "id": "B",
+        "text": "4 L"
+      },
+      {
+        "id": "C",
+        "text": "2 L"
+      },
+      {
+        "id": "D",
+        "text": "1 L"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-9",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 10,
+    "question": "Charles's law states that at constant pressure, the volume of a gas is directly proportional to its:",
+    "options": [
+      {
+        "id": "A",
+        "text": "temperature in °C"
+      },
+      {
+        "id": "B",
+        "text": "absolute temperature"
+      },
+      {
+        "id": "C",
+        "text": "mass"
+      },
+      {
+        "id": "D",
+        "text": "density"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-10",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 11,
+    "question": "The molarity of a solution containing 40 g NaOH (molar mass 40 g/mol) in 2 L of solution is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 M"
+      },
+      {
+        "id": "B",
+        "text": "2 M"
+      },
+      {
+        "id": "C",
+        "text": "0.5 M"
+      },
+      {
+        "id": "D",
+        "text": "0.25 M"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-11",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 12,
+    "question": "In the electrolysis of molten NaCl, the product at the cathode is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "chlorine gas"
+      },
+      {
+        "id": "B",
+        "text": "sodium metal"
+      },
+      {
+        "id": "C",
+        "text": "hydrogen gas"
+      },
+      {
+        "id": "D",
+        "text": "oxygen gas"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-12",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 13,
+    "question": "Oxidation is defined as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "gain of electrons"
+      },
+      {
+        "id": "B",
+        "text": "loss of electrons"
+      },
+      {
+        "id": "C",
+        "text": "loss of protons"
+      },
+      {
+        "id": "D",
+        "text": "gain of neutrons"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-13",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 14,
+    "question": "The oxidation state of Mn in KMnO₄ is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "+2"
+      },
+      {
+        "id": "B",
+        "text": "+4"
+      },
+      {
+        "id": "C",
+        "text": "+6"
+      },
+      {
+        "id": "D",
+        "text": "+7"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-14",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "D",
+    "explanation": null
+  },
+  {
+    "subject": "Chemistry",
+    "number": 15,
+    "question": "Which metal will displace copper from copper sulphate solution?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Silver"
+      },
+      {
+        "id": "B",
+        "text": "Gold"
+      },
+      {
+        "id": "C",
+        "text": "Zinc"
+      },
+      {
+        "id": "D",
+        "text": "Mercury"
+      }
+    ],
+    "id": "fbise-c9-mcq-chemistry-15",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 1,
+    "question": "The level of biological organization immediately above tissue is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "cell"
+      },
+      {
+        "id": "B",
+        "text": "organ"
+      },
+      {
+        "id": "C",
+        "text": "organelle"
+      },
+      {
+        "id": "D",
+        "text": "population"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-1",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 2,
+    "question": "The binomial system of nomenclature was introduced by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aristotle"
+      },
+      {
+        "id": "B",
+        "text": "Darwin"
+      },
+      {
+        "id": "C",
+        "text": "Linnaeus"
+      },
+      {
+        "id": "D",
+        "text": "Mendel"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-2",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 3,
+    "question": "A prokaryotic cell lacks:",
+    "options": [
+      {
+        "id": "A",
+        "text": "cell membrane"
+      },
+      {
+        "id": "B",
+        "text": "ribosomes"
+      },
+      {
+        "id": "C",
+        "text": "a membrane-bound nucleus"
+      },
+      {
+        "id": "D",
+        "text": "DNA"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-3",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 4,
+    "question": "The main site of ATP production in a cell is the:",
+    "options": [
+      {
+        "id": "A",
+        "text": "ribosome"
+      },
+      {
+        "id": "B",
+        "text": "mitochondrion"
+      },
+      {
+        "id": "C",
+        "text": "Golgi body"
+      },
+      {
+        "id": "D",
+        "text": "lysosome"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-4",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 5,
+    "question": "The tissue that conducts water in plants is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "phloem"
+      },
+      {
+        "id": "B",
+        "text": "xylem"
+      },
+      {
+        "id": "C",
+        "text": "cambium"
+      },
+      {
+        "id": "D",
+        "text": "epidermis"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-5",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 6,
+    "question": "DNA replication occurs during which phase of the cell cycle?",
+    "options": [
+      {
+        "id": "A",
+        "text": "G₁"
+      },
+      {
+        "id": "B",
+        "text": "S"
+      },
+      {
+        "id": "C",
+        "text": "G₂"
+      },
+      {
+        "id": "D",
+        "text": "M"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-6",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 7,
+    "question": "A human diploid cell (46 chromosomes) undergoes meiosis. Each gamete will contain:",
+    "options": [
+      {
+        "id": "A",
+        "text": "46 chromosomes"
+      },
+      {
+        "id": "B",
+        "text": "92 chromosomes"
+      },
+      {
+        "id": "C",
+        "text": "23 chromosomes"
+      },
+      {
+        "id": "D",
+        "text": "22 chromosomes"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-7",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 8,
+    "question": "The specificity of an enzyme is due to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "its molecular weight"
+      },
+      {
+        "id": "B",
+        "text": "the shape of its active site"
+      },
+      {
+        "id": "C",
+        "text": "the pH of the cell"
+      },
+      {
+        "id": "D",
+        "text": "the product formed"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-8",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 9,
+    "question": "A very high temperature stops enzyme action because it:",
+    "options": [
+      {
+        "id": "A",
+        "text": "lowers substrate concentration"
+      },
+      {
+        "id": "B",
+        "text": "denatures the enzyme"
+      },
+      {
+        "id": "C",
+        "text": "increases pH"
+      },
+      {
+        "id": "D",
+        "text": "removes the cofactor"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-9",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 10,
+    "question": "In photosynthesis, the light-dependent reactions take place in the:",
+    "options": [
+      {
+        "id": "A",
+        "text": "stroma"
+      },
+      {
+        "id": "B",
+        "text": "grana"
+      },
+      {
+        "id": "C",
+        "text": "cytoplasm"
+      },
+      {
+        "id": "D",
+        "text": "mitochondria"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-10",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 11,
+    "question": "Anaerobic respiration in yeast produces:",
+    "options": [
+      {
+        "id": "A",
+        "text": "lactic acid and CO₂"
+      },
+      {
+        "id": "B",
+        "text": "ethanol and CO₂"
+      },
+      {
+        "id": "C",
+        "text": "ethanol and O₂"
+      },
+      {
+        "id": "D",
+        "text": "water and CO₂"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-11",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 12,
+    "question": "Deficiency of vitamin C causes:",
+    "options": [
+      {
+        "id": "A",
+        "text": "rickets"
+      },
+      {
+        "id": "B",
+        "text": "night blindness"
+      },
+      {
+        "id": "C",
+        "text": "scurvy"
+      },
+      {
+        "id": "D",
+        "text": "beriberi"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-12",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 13,
+    "question": "Bile, which emulsifies fats, is produced by the:",
+    "options": [
+      {
+        "id": "A",
+        "text": "gall bladder"
+      },
+      {
+        "id": "B",
+        "text": "pancreas"
+      },
+      {
+        "id": "C",
+        "text": "liver"
+      },
+      {
+        "id": "D",
+        "text": "stomach"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-13",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 14,
+    "question": "The transpiration pull is caused mainly by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "root pressure"
+      },
+      {
+        "id": "B",
+        "text": "loss of water vapour through stomata"
+      },
+      {
+        "id": "C",
+        "text": "active transport"
+      },
+      {
+        "id": "D",
+        "text": "osmosis in root hairs"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-14",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Biology",
+    "number": 15,
+    "question": "The pulmonary vein carries oxygenated blood from the lungs to the:",
+    "options": [
+      {
+        "id": "A",
+        "text": "right atrium"
+      },
+      {
+        "id": "B",
+        "text": "right ventricle"
+      },
+      {
+        "id": "C",
+        "text": "left atrium"
+      },
+      {
+        "id": "D",
+        "text": "left ventricle"
+      }
+    ],
+    "id": "fbise-c9-mcq-biology-15",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 1,
+    "question": "If matrix A is of order 2×3 and B is of order 3×2, the order of AB is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "3×3"
+      },
+      {
+        "id": "B",
+        "text": "2×2"
+      },
+      {
+        "id": "C",
+        "text": "2×3"
+      },
+      {
+        "id": "D",
+        "text": "3×2"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-1",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 2,
+    "question": "The determinant of the matrix [[2, 3], [1, 4]] is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "11"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "−5"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-2",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 3,
+    "question": "If A = [[3, 1], [5, 2]], then A⁻¹ is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "[[2, −1], [−5, 3]]"
+      },
+      {
+        "id": "B",
+        "text": "[[2, 1], [5, 3]]"
+      },
+      {
+        "id": "C",
+        "text": "[[−2, 1], [5, −3]]"
+      },
+      {
+        "id": "D",
+        "text": "[[3, −1], [−5, 2]]"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-3",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "A",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 4,
+    "question": "The value of i⁷ is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "i"
+      },
+      {
+        "id": "B",
+        "text": "−i"
+      },
+      {
+        "id": "C",
+        "text": "1"
+      },
+      {
+        "id": "D",
+        "text": "−1"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-4",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 5,
+    "question": "(3 + 2i)(3 − 2i) equals:",
+    "options": [
+      {
+        "id": "A",
+        "text": "5"
+      },
+      {
+        "id": "B",
+        "text": "9 − 4i"
+      },
+      {
+        "id": "C",
+        "text": "13"
+      },
+      {
+        "id": "D",
+        "text": "9 + 4i"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-5",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 6,
+    "question": "log 8 + log 125 equals:",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "log 133"
+      },
+      {
+        "id": "D",
+        "text": "4"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-6",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 7,
+    "question": "The number 0.00056 in scientific notation is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "5.6 × 10⁴"
+      },
+      {
+        "id": "B",
+        "text": "5.6 × 10⁻³"
+      },
+      {
+        "id": "C",
+        "text": "5.6 × 10⁻⁴"
+      },
+      {
+        "id": "D",
+        "text": "56 × 10⁻⁵"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-7",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 8,
+    "question": "The complete factorization of x⁴ − 16 is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "(x² − 4)(x² + 4)"
+      },
+      {
+        "id": "B",
+        "text": "(x − 2)(x + 2)(x² + 4)"
+      },
+      {
+        "id": "C",
+        "text": "(x − 4)(x + 4)(x² + 1)"
+      },
+      {
+        "id": "D",
+        "text": "(x − 2)²(x + 2)²"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-8",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 9,
+    "question": "The discriminant of 2x² − 4x + 5 = 0 is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "24"
+      },
+      {
+        "id": "B",
+        "text": "−24"
+      },
+      {
+        "id": "C",
+        "text": "16"
+      },
+      {
+        "id": "D",
+        "text": "−16"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-9",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 10,
+    "question": "The sum of the roots of 3x² − 9x + 2 = 0 is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "−3"
+      },
+      {
+        "id": "C",
+        "text": "2/3"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-10",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "A",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 11,
+    "question": "The distance between points (1, 2) and (4, 6) is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "5"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-11",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 12,
+    "question": "The midpoint of the line segment joining (2, −4) and (6, 8) is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "(8, 4)"
+      },
+      {
+        "id": "B",
+        "text": "(4, 2)"
+      },
+      {
+        "id": "C",
+        "text": "(2, 4)"
+      },
+      {
+        "id": "D",
+        "text": "(4, 12)"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-12",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 13,
+    "question": "In a right-angled triangle with legs 9 cm and 12 cm, the hypotenuse is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "13 cm"
+      },
+      {
+        "id": "B",
+        "text": "15 cm"
+      },
+      {
+        "id": "C",
+        "text": "21 cm"
+      },
+      {
+        "id": "D",
+        "text": "17 cm"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-13",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 14,
+    "question": "If a + b = 5 and ab = 6, then a² + b² equals:",
+    "options": [
+      {
+        "id": "A",
+        "text": "11"
+      },
+      {
+        "id": "B",
+        "text": "13"
+      },
+      {
+        "id": "C",
+        "text": "25"
+      },
+      {
+        "id": "D",
+        "text": "31"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-14",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Mathematics",
+    "number": 15,
+    "question": "If a:b = 2:3 and b:c = 4:5, then a:c is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "2:5"
+      },
+      {
+        "id": "B",
+        "text": "8:15"
+      },
+      {
+        "id": "C",
+        "text": "6:20"
+      },
+      {
+        "id": "D",
+        "text": "4:15"
+      }
+    ],
+    "id": "fbise-c9-mcq-mathematics-15",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Computer Science",
+    "number": 1,
+    "question": "The binary equivalent of decimal 13 is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1011"
+      },
+      {
+        "id": "B",
+        "text": "1101"
+      },
+      {
+        "id": "C",
+        "text": "1110"
+      },
+      {
+        "id": "D",
+        "text": "1001"
+      }
+    ],
+    "id": "fbise-c9-mcq-computer-science-1",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Computer Science",
+    "number": 2,
+    "question": "The hexadecimal equivalent of decimal 255 is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "EE"
+      },
+      {
+        "id": "B",
+        "text": "FF"
+      },
+      {
+        "id": "C",
+        "text": "F0"
+      },
+      {
+        "id": "D",
+        "text": "1F"
+      }
+    ],
+    "id": "fbise-c9-mcq-computer-science-2",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Computer Science",
+    "number": 3,
+    "question": "The decimal equivalent of binary 1011 is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "9"
+      },
+      {
+        "id": "B",
+        "text": "10"
+      },
+      {
+        "id": "C",
+        "text": "11"
+      },
+      {
+        "id": "D",
+        "text": "13"
+      }
+    ],
+    "id": "fbise-c9-mcq-computer-science-3",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Computer Science",
+    "number": 4,
+    "question": "One byte consists of:",
+    "options": [
+      {
+        "id": "A",
+        "text": "4 bits"
+      },
+      {
+        "id": "B",
+        "text": "8 bits"
+      },
+      {
+        "id": "C",
+        "text": "16 bits"
+      },
+      {
+        "id": "D",
+        "text": "10 bits"
+      }
+    ],
+    "id": "fbise-c9-mcq-computer-science-4",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Computer Science",
+    "number": 5,
+    "question": "An algorithm is best described as:",
+    "options": [
+      {
+        "id": "A",
+        "text": "a computer program"
+      },
+      {
+        "id": "B",
+        "text": "a finite sequence of steps to solve a problem"
+      },
+      {
+        "id": "C",
+        "text": "a programming language"
+      },
+      {
+        "id": "D",
+        "text": "a flowchart symbol"
+      }
+    ],
+    "id": "fbise-c9-mcq-computer-science-5",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Computer Science",
+    "number": 6,
+    "question": "In a flowchart, the decision symbol is a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "rectangle"
+      },
+      {
+        "id": "B",
+        "text": "oval"
+      },
+      {
+        "id": "C",
+        "text": "diamond"
+      },
+      {
+        "id": "D",
+        "text": "parallelogram"
+      }
+    ],
+    "id": "fbise-c9-mcq-computer-science-6",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Computer Science",
+    "number": 7,
+    "question": "Standard ASCII uses how many bits to represent a character?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "7"
+      },
+      {
+        "id": "C",
+        "text": "16"
+      },
+      {
+        "id": "D",
+        "text": "32"
+      }
+    ],
+    "id": "fbise-c9-mcq-computer-science-7",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Computer Science",
+    "number": 8,
+    "question": "Which logic gate gives an output of 1 only when both inputs are 1?",
+    "options": [
+      {
+        "id": "A",
+        "text": "OR"
+      },
+      {
+        "id": "B",
+        "text": "NOT"
+      },
+      {
+        "id": "C",
+        "text": "AND"
+      },
+      {
+        "id": "D",
+        "text": "NOR"
+      }
+    ],
+    "id": "fbise-c9-mcq-computer-science-8",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Computer Science",
+    "number": 9,
+    "question": "In a star topology, all nodes are connected to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "each other directly"
+      },
+      {
+        "id": "B",
+        "text": "a single cable"
+      },
+      {
+        "id": "C",
+        "text": "a central hub or switch"
+      },
+      {
+        "id": "D",
+        "text": "a ring"
+      }
+    ],
+    "id": "fbise-c9-mcq-computer-science-9",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Computer Science",
+    "number": 10,
+    "question": "A network that covers a small area such as a school is called a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "WAN"
+      },
+      {
+        "id": "B",
+        "text": "MAN"
+      },
+      {
+        "id": "C",
+        "text": "LAN"
+      },
+      {
+        "id": "D",
+        "text": "PAN"
+      }
+    ],
+    "id": "fbise-c9-mcq-computer-science-10",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Computer Science",
+    "number": 11,
+    "question": "Which protocol is used for transferring web pages?",
+    "options": [
+      {
+        "id": "A",
+        "text": "FTP"
+      },
+      {
+        "id": "B",
+        "text": "HTTP"
+      },
+      {
+        "id": "C",
+        "text": "SMTP"
+      },
+      {
+        "id": "D",
+        "text": "POP3"
+      }
+    ],
+    "id": "fbise-c9-mcq-computer-science-11",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Computer Science",
+    "number": 12,
+    "question": "A program that attaches itself to files and replicates is called a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "firewall"
+      },
+      {
+        "id": "B",
+        "text": "virus"
+      },
+      {
+        "id": "C",
+        "text": "compiler"
+      },
+      {
+        "id": "D",
+        "text": "browser"
+      }
+    ],
+    "id": "fbise-c9-mcq-computer-science-12",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "English",
+    "number": 1,
+    "question": "Change to passive voice: \"The teacher is checking the papers.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "The papers are checked by the teacher."
+      },
+      {
+        "id": "B",
+        "text": "The papers are being checked by the teacher."
+      },
+      {
+        "id": "C",
+        "text": "The papers were being checked by the teacher."
+      },
+      {
+        "id": "D",
+        "text": "The papers have been checked by the teacher."
+      }
+    ],
+    "id": "fbise-c9-mcq-english-1",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "English",
+    "number": 2,
+    "question": "Choose the correct sentence:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Neither of the boys were present."
+      },
+      {
+        "id": "B",
+        "text": "Neither of the boys was present."
+      },
+      {
+        "id": "C",
+        "text": "Neither of the boys are present."
+      },
+      {
+        "id": "D",
+        "text": "Neither of the boys have been present."
+      }
+    ],
+    "id": "fbise-c9-mcq-english-2",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "English",
+    "number": 3,
+    "question": "\"If I had known, I would have helped you.\" This is a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "zero conditional"
+      },
+      {
+        "id": "B",
+        "text": "first conditional"
+      },
+      {
+        "id": "C",
+        "text": "second conditional"
+      },
+      {
+        "id": "D",
+        "text": "third conditional"
+      }
+    ],
+    "id": "fbise-c9-mcq-english-3",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "D",
+    "explanation": null
+  },
+  {
+    "subject": "English",
+    "number": 4,
+    "question": "Reported speech of: He said, \"I am tired.\"",
+    "options": [
+      {
+        "id": "A",
+        "text": "He said that he is tired."
+      },
+      {
+        "id": "B",
+        "text": "He said that he was tired."
+      },
+      {
+        "id": "C",
+        "text": "He said that I was tired."
+      },
+      {
+        "id": "D",
+        "text": "He said that he had been tired."
+      }
+    ],
+    "id": "fbise-c9-mcq-english-4",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "English",
+    "number": 5,
+    "question": "The word nearest in meaning to \"meticulous\" is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "careless"
+      },
+      {
+        "id": "B",
+        "text": "careful"
+      },
+      {
+        "id": "C",
+        "text": "quick"
+      },
+      {
+        "id": "D",
+        "text": "lazy"
+      }
+    ],
+    "id": "fbise-c9-mcq-english-5",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "English",
+    "number": 6,
+    "question": "The opposite of \"scarce\" is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "rare"
+      },
+      {
+        "id": "B",
+        "text": "limited"
+      },
+      {
+        "id": "C",
+        "text": "abundant"
+      },
+      {
+        "id": "D",
+        "text": "poor"
+      }
+    ],
+    "id": "fbise-c9-mcq-english-6",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "English",
+    "number": 7,
+    "question": "Fill in the blank: He is very good ___ mathematics.",
+    "options": [
+      {
+        "id": "A",
+        "text": "in"
+      },
+      {
+        "id": "B",
+        "text": "at"
+      },
+      {
+        "id": "C",
+        "text": "on"
+      },
+      {
+        "id": "D",
+        "text": "with"
+      }
+    ],
+    "id": "fbise-c9-mcq-english-7",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "English",
+    "number": 8,
+    "question": "The idiom \"a blessing in disguise\" means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "a hidden danger"
+      },
+      {
+        "id": "B",
+        "text": "a good thing that seemed bad at first"
+      },
+      {
+        "id": "C",
+        "text": "a religious act"
+      },
+      {
+        "id": "D",
+        "text": "a secret gift"
+      }
+    ],
+    "id": "fbise-c9-mcq-english-8",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "English",
+    "number": 9,
+    "question": "\"She has been studying since morning.\" The tense is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "present perfect"
+      },
+      {
+        "id": "B",
+        "text": "present continuous"
+      },
+      {
+        "id": "C",
+        "text": "present perfect continuous"
+      },
+      {
+        "id": "D",
+        "text": "past perfect continuous"
+      }
+    ],
+    "id": "fbise-c9-mcq-english-9",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "English",
+    "number": 10,
+    "question": "Fill in the blank: The man ___ car was stolen reported to the police.",
+    "options": [
+      {
+        "id": "A",
+        "text": "who"
+      },
+      {
+        "id": "B",
+        "text": "whom"
+      },
+      {
+        "id": "C",
+        "text": "whose"
+      },
+      {
+        "id": "D",
+        "text": "which"
+      }
+    ],
+    "id": "fbise-c9-mcq-english-10",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "English",
+    "number": 11,
+    "question": "\"The wind whispered through the trees.\" The figure of speech is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "simile"
+      },
+      {
+        "id": "B",
+        "text": "metaphor"
+      },
+      {
+        "id": "C",
+        "text": "personification"
+      },
+      {
+        "id": "D",
+        "text": "hyperbole"
+      }
+    ],
+    "id": "fbise-c9-mcq-english-11",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "English",
+    "number": 12,
+    "question": "Fill in the blank: He is ___ honest man.",
+    "options": [
+      {
+        "id": "A",
+        "text": "a"
+      },
+      {
+        "id": "B",
+        "text": "an"
+      },
+      {
+        "id": "C",
+        "text": "the"
+      },
+      {
+        "id": "D",
+        "text": "no article"
+      }
+    ],
+    "id": "fbise-c9-mcq-english-12",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Islamiyat",
+    "number": 1,
+    "question": "The Hadith \"Actions are judged by intentions\" is narrated by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hazrat Abu Bakr (RA)"
+      },
+      {
+        "id": "B",
+        "text": "Hazrat Umar (RA)"
+      },
+      {
+        "id": "C",
+        "text": "Hazrat Ali (RA)"
+      },
+      {
+        "id": "D",
+        "text": "Hazrat Abu Huraira (RA)"
+      }
+    ],
+    "id": "fbise-c9-mcq-islamiyat-1",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Islamiyat",
+    "number": 2,
+    "question": "Which Surah is known as \"Umm-ul-Quran\"?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al-Baqarah"
+      },
+      {
+        "id": "B",
+        "text": "Al-Ikhlas"
+      },
+      {
+        "id": "C",
+        "text": "Al-Fatihah"
+      },
+      {
+        "id": "D",
+        "text": "Yaseen"
+      }
+    ],
+    "id": "fbise-c9-mcq-islamiyat-2",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Islamiyat",
+    "number": 3,
+    "question": "The first revelation came in the cave of Hira in the Surah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al-Muddaththir"
+      },
+      {
+        "id": "B",
+        "text": "Al-Alaq"
+      },
+      {
+        "id": "C",
+        "text": "Al-Fatihah"
+      },
+      {
+        "id": "D",
+        "text": "Al-Muzzammil"
+      }
+    ],
+    "id": "fbise-c9-mcq-islamiyat-3",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Islamiyat",
+    "number": 4,
+    "question": "The Hijrah to Madinah took place in:",
+    "options": [
+      {
+        "id": "A",
+        "text": "610 CE"
+      },
+      {
+        "id": "B",
+        "text": "622 CE"
+      },
+      {
+        "id": "C",
+        "text": "630 CE"
+      },
+      {
+        "id": "D",
+        "text": "632 CE"
+      }
+    ],
+    "id": "fbise-c9-mcq-islamiyat-4",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Islamiyat",
+    "number": 5,
+    "question": "The first pillar of Islam is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Salah"
+      },
+      {
+        "id": "B",
+        "text": "Zakat"
+      },
+      {
+        "id": "C",
+        "text": "Shahadah"
+      },
+      {
+        "id": "D",
+        "text": "Hajj"
+      }
+    ],
+    "id": "fbise-c9-mcq-islamiyat-5",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Islamiyat",
+    "number": 6,
+    "question": "The Treaty of Hudaybiyyah was signed in:",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 AH"
+      },
+      {
+        "id": "B",
+        "text": "4 AH"
+      },
+      {
+        "id": "C",
+        "text": "6 AH"
+      },
+      {
+        "id": "D",
+        "text": "8 AH"
+      }
+    ],
+    "id": "fbise-c9-mcq-islamiyat-6",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Islamiyat",
+    "number": 7,
+    "question": "The Battle of Badr took place in:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 AH"
+      },
+      {
+        "id": "B",
+        "text": "2 AH"
+      },
+      {
+        "id": "C",
+        "text": "3 AH"
+      },
+      {
+        "id": "D",
+        "text": "5 AH"
+      }
+    ],
+    "id": "fbise-c9-mcq-islamiyat-7",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Islamiyat",
+    "number": 8,
+    "question": "\"Tawheed\" means:",
+    "options": [
+      {
+        "id": "A",
+        "text": "belief in angels"
+      },
+      {
+        "id": "B",
+        "text": "oneness of Allah"
+      },
+      {
+        "id": "C",
+        "text": "belief in the Hereafter"
+      },
+      {
+        "id": "D",
+        "text": "belief in prophets"
+      }
+    ],
+    "id": "fbise-c9-mcq-islamiyat-8",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Islamiyat",
+    "number": 9,
+    "question": "The belief that Muhammad (PBUH) is the last Prophet is called:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tawheed"
+      },
+      {
+        "id": "B",
+        "text": "Khatm-e-Nubuwwat"
+      },
+      {
+        "id": "C",
+        "text": "Risalat"
+      },
+      {
+        "id": "D",
+        "text": "Akhirah"
+      }
+    ],
+    "id": "fbise-c9-mcq-islamiyat-9",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Islamiyat",
+    "number": 10,
+    "question": "The first woman to accept Islam was:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hazrat Ayesha (RA)"
+      },
+      {
+        "id": "B",
+        "text": "Hazrat Fatima (RA)"
+      },
+      {
+        "id": "C",
+        "text": "Hazrat Khadijah (RA)"
+      },
+      {
+        "id": "D",
+        "text": "Hazrat Sumayyah (RA)"
+      }
+    ],
+    "id": "fbise-c9-mcq-islamiyat-10",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Islamiyat",
+    "number": 11,
+    "question": "The rate of Zakat on savings is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1%"
+      },
+      {
+        "id": "B",
+        "text": "2.5%"
+      },
+      {
+        "id": "C",
+        "text": "5%"
+      },
+      {
+        "id": "D",
+        "text": "10%"
+      }
+    ],
+    "id": "fbise-c9-mcq-islamiyat-11",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Islamiyat",
+    "number": 12,
+    "question": "\"Hadith\" refers to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "the verses of the Quran"
+      },
+      {
+        "id": "B",
+        "text": "the sayings, actions and approvals of the Prophet (PBUH)"
+      },
+      {
+        "id": "C",
+        "text": "the history of caliphs"
+      },
+      {
+        "id": "D",
+        "text": "Islamic jurisprudence"
+      }
+    ],
+    "id": "fbise-c9-mcq-islamiyat-12",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Pakistan Studies",
+    "number": 1,
+    "question": "Allama Iqbal presented the idea of a separate Muslim state in his address at Allahabad in:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1906"
+      },
+      {
+        "id": "B",
+        "text": "1916"
+      },
+      {
+        "id": "C",
+        "text": "1930"
+      },
+      {
+        "id": "D",
+        "text": "1940"
+      }
+    ],
+    "id": "fbise-c9-mcq-pakistan-studies-1",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Pakistan Studies",
+    "number": 2,
+    "question": "The Lahore Resolution (1940) was moved by:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Allama Iqbal"
+      },
+      {
+        "id": "B",
+        "text": "A.K. Fazlul Huq"
+      },
+      {
+        "id": "C",
+        "text": "Liaquat Ali Khan"
+      },
+      {
+        "id": "D",
+        "text": "Chaudhry Rahmat Ali"
+      }
+    ],
+    "id": "fbise-c9-mcq-pakistan-studies-2",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Pakistan Studies",
+    "number": 3,
+    "question": "Sir Syed Ahmad Khan founded the Muhammadan Anglo-Oriental College at Aligarh in:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1857"
+      },
+      {
+        "id": "B",
+        "text": "1875"
+      },
+      {
+        "id": "C",
+        "text": "1885"
+      },
+      {
+        "id": "D",
+        "text": "1906"
+      }
+    ],
+    "id": "fbise-c9-mcq-pakistan-studies-3",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Pakistan Studies",
+    "number": 4,
+    "question": "The Partition Plan was announced on:",
+    "options": [
+      {
+        "id": "A",
+        "text": "3 June 1947"
+      },
+      {
+        "id": "B",
+        "text": "14 August 1947"
+      },
+      {
+        "id": "C",
+        "text": "23 March 1940"
+      },
+      {
+        "id": "D",
+        "text": "16 May 1946"
+      }
+    ],
+    "id": "fbise-c9-mcq-pakistan-studies-4",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "A",
+    "explanation": null
+  },
+  {
+    "subject": "Pakistan Studies",
+    "number": 5,
+    "question": "The longest river of Pakistan is the:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Jhelum"
+      },
+      {
+        "id": "B",
+        "text": "Chenab"
+      },
+      {
+        "id": "C",
+        "text": "Indus"
+      },
+      {
+        "id": "D",
+        "text": "Ravi"
+      }
+    ],
+    "id": "fbise-c9-mcq-pakistan-studies-5",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Pakistan Studies",
+    "number": 6,
+    "question": "The Khunjerab Pass connects Pakistan with:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Afghanistan"
+      },
+      {
+        "id": "B",
+        "text": "Iran"
+      },
+      {
+        "id": "C",
+        "text": "India"
+      },
+      {
+        "id": "D",
+        "text": "China"
+      }
+    ],
+    "id": "fbise-c9-mcq-pakistan-studies-6",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "D",
+    "explanation": null
+  },
+  {
+    "subject": "Pakistan Studies",
+    "number": 7,
+    "question": "The total area of Pakistan is approximately:",
+    "options": [
+      {
+        "id": "A",
+        "text": "596,096 sq km"
+      },
+      {
+        "id": "B",
+        "text": "796,096 sq km"
+      },
+      {
+        "id": "C",
+        "text": "896,096 sq km"
+      },
+      {
+        "id": "D",
+        "text": "996,096 sq km"
+      }
+    ],
+    "id": "fbise-c9-mcq-pakistan-studies-7",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Pakistan Studies",
+    "number": 8,
+    "question": "K2, the second highest peak in the world, lies in the:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Himalayas"
+      },
+      {
+        "id": "B",
+        "text": "Karakoram"
+      },
+      {
+        "id": "C",
+        "text": "Hindu Kush"
+      },
+      {
+        "id": "D",
+        "text": "Sulaiman Range"
+      }
+    ],
+    "id": "fbise-c9-mcq-pakistan-studies-8",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Pakistan Studies",
+    "number": 9,
+    "question": "The All India Muslim League was founded in:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Karachi in 1906"
+      },
+      {
+        "id": "B",
+        "text": "Lahore in 1906"
+      },
+      {
+        "id": "C",
+        "text": "Dhaka in 1906"
+      },
+      {
+        "id": "D",
+        "text": "Delhi in 1906"
+      }
+    ],
+    "id": "fbise-c9-mcq-pakistan-studies-9",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Pakistan Studies",
+    "number": 10,
+    "question": "The Lucknow Pact (1916) was an agreement between:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Muslim League and British Government"
+      },
+      {
+        "id": "B",
+        "text": "Congress and Muslim League"
+      },
+      {
+        "id": "C",
+        "text": "Congress and Unionist Party"
+      },
+      {
+        "id": "D",
+        "text": "Khilafat Committee and Congress"
+      }
+    ],
+    "id": "fbise-c9-mcq-pakistan-studies-10",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Pakistan Studies",
+    "number": 11,
+    "question": "Jinnah's Fourteen Points were presented in:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1916"
+      },
+      {
+        "id": "B",
+        "text": "1928"
+      },
+      {
+        "id": "C",
+        "text": "1929"
+      },
+      {
+        "id": "D",
+        "text": "1935"
+      }
+    ],
+    "id": "fbise-c9-mcq-pakistan-studies-11",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Pakistan Studies",
+    "number": 12,
+    "question": "Tarbela Dam is built on the river:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Jhelum"
+      },
+      {
+        "id": "B",
+        "text": "Indus"
+      },
+      {
+        "id": "C",
+        "text": "Chenab"
+      },
+      {
+        "id": "D",
+        "text": "Kabul"
+      }
+    ],
+    "id": "fbise-c9-mcq-pakistan-studies-12",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Urdu",
+    "number": 1,
+    "question": "وہ لفظ جو کسی شخص، جگہ یا چیز کا نام ہو، کہلاتا ہے:",
+    "options": [
+      {
+        "id": "A",
+        "text": "فعل"
+      },
+      {
+        "id": "B",
+        "text": "اسم"
+      },
+      {
+        "id": "C",
+        "text": "حرف"
+      },
+      {
+        "id": "D",
+        "text": "صفت"
+      }
+    ],
+    "id": "fbise-c9-mcq-urdu-1",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Urdu",
+    "number": 2,
+    "question": "\"خوشی\" کا متضاد ہے:",
+    "options": [
+      {
+        "id": "A",
+        "text": "مسرت"
+      },
+      {
+        "id": "B",
+        "text": "شادمانی"
+      },
+      {
+        "id": "C",
+        "text": "غم"
+      },
+      {
+        "id": "D",
+        "text": "راحت"
+      }
+    ],
+    "id": "fbise-c9-mcq-urdu-2",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Urdu",
+    "number": 3,
+    "question": "\"طالب علم\" کی جمع ہے:",
+    "options": [
+      {
+        "id": "A",
+        "text": "طالب علمیں"
+      },
+      {
+        "id": "B",
+        "text": "طلبہ"
+      },
+      {
+        "id": "C",
+        "text": "طالبان"
+      },
+      {
+        "id": "D",
+        "text": "علماء"
+      }
+    ],
+    "id": "fbise-c9-mcq-urdu-3",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Urdu",
+    "number": 4,
+    "question": "\"بہار\" کا متضاد ہے:",
+    "options": [
+      {
+        "id": "A",
+        "text": "گرمی"
+      },
+      {
+        "id": "B",
+        "text": "سردی"
+      },
+      {
+        "id": "C",
+        "text": "خزاں"
+      },
+      {
+        "id": "D",
+        "text": "برسات"
+      }
+    ],
+    "id": "fbise-c9-mcq-urdu-4",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Urdu",
+    "number": 5,
+    "question": "علامہ محمد اقبالؒ کو کہا جاتا ہے:",
+    "options": [
+      {
+        "id": "A",
+        "text": "شاعرِ مشرق"
+      },
+      {
+        "id": "B",
+        "text": "شاعرِ فطرت"
+      },
+      {
+        "id": "C",
+        "text": "شاعرِ انقلاب"
+      },
+      {
+        "id": "D",
+        "text": "شاعرِ پاکستان"
+      }
+    ],
+    "id": "fbise-c9-mcq-urdu-5",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "A",
+    "explanation": null
+  },
+  {
+    "subject": "Urdu",
+    "number": 6,
+    "question": "محاورہ \"آنکھوں کا تارا\" کا مطلب ہے:",
+    "options": [
+      {
+        "id": "A",
+        "text": "بہت پیارا"
+      },
+      {
+        "id": "B",
+        "text": "بہت دور"
+      },
+      {
+        "id": "C",
+        "text": "بیمار"
+      },
+      {
+        "id": "D",
+        "text": "غصہ ور"
+      }
+    ],
+    "id": "fbise-c9-mcq-urdu-6",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "A",
+    "explanation": null
+  },
+  {
+    "subject": "Urdu",
+    "number": 7,
+    "question": "\"کتاب\" کی جمع ہے:",
+    "options": [
+      {
+        "id": "A",
+        "text": "کتابات"
+      },
+      {
+        "id": "B",
+        "text": "کتابیں"
+      },
+      {
+        "id": "C",
+        "text": "کتب خانے"
+      },
+      {
+        "id": "D",
+        "text": "کتابوں"
+      }
+    ],
+    "id": "fbise-c9-mcq-urdu-7",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Urdu",
+    "number": 8,
+    "question": "وہ لفظ جو کسی کام کے کرنے یا ہونے پر دلالت کرے، کہلاتا ہے:",
+    "options": [
+      {
+        "id": "A",
+        "text": "اسم"
+      },
+      {
+        "id": "B",
+        "text": "صفت"
+      },
+      {
+        "id": "C",
+        "text": "فعل"
+      },
+      {
+        "id": "D",
+        "text": "ضمیر"
+      }
+    ],
+    "id": "fbise-c9-mcq-urdu-8",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Urdu",
+    "number": 9,
+    "question": "\"مرد\" کا مؤنث ہے:",
+    "options": [
+      {
+        "id": "A",
+        "text": "مردانہ"
+      },
+      {
+        "id": "B",
+        "text": "عورت"
+      },
+      {
+        "id": "C",
+        "text": "لڑکی"
+      },
+      {
+        "id": "D",
+        "text": "بیوی"
+      }
+    ],
+    "id": "fbise-c9-mcq-urdu-9",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Urdu",
+    "number": 10,
+    "question": "\"ماہ\" کا مترادف ہے:",
+    "options": [
+      {
+        "id": "A",
+        "text": "سورج"
+      },
+      {
+        "id": "B",
+        "text": "ستارہ"
+      },
+      {
+        "id": "C",
+        "text": "چاند"
+      },
+      {
+        "id": "D",
+        "text": "آسمان"
+      }
+    ],
+    "id": "fbise-c9-mcq-urdu-10",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "C",
+    "explanation": null
+  },
+  {
+    "subject": "Urdu",
+    "number": 11,
+    "question": "اردو کا رسم الخط ہے:",
+    "options": [
+      {
+        "id": "A",
+        "text": "نسخ"
+      },
+      {
+        "id": "B",
+        "text": "نستعلیق"
+      },
+      {
+        "id": "C",
+        "text": "کوفی"
+      },
+      {
+        "id": "D",
+        "text": "ثلث"
+      }
+    ],
+    "id": "fbise-c9-mcq-urdu-11",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "B",
+    "explanation": null
+  },
+  {
+    "subject": "Urdu",
+    "number": 12,
+    "question": "جملہ \"خوبصورت پھول کھلا ہے\" میں صفت ہے:",
+    "options": [
+      {
+        "id": "A",
+        "text": "پھول"
+      },
+      {
+        "id": "B",
+        "text": "کھلا"
+      },
+      {
+        "id": "C",
+        "text": "ہے"
+      },
+      {
+        "id": "D",
+        "text": "خوبصورت"
+      }
+    ],
+    "id": "fbise-c9-mcq-urdu-12",
+    "board": "federal",
+    "class": 9,
+    "type": "mcq",
+    "chapter": null,
+    "correctOptionId": "D",
+    "explanation": null
+  }
+]

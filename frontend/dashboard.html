@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f3f3ef">
+  <title>Learnix — Student Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/dashboard.css">
+</head>
+<body>
+<div class="app">
+  <aside class="side" aria-label="Learnix">
+    <a class="brand" href="#dashboard" aria-label="Learnix dashboard">
+      <span class="mark"><svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h5v12h8v6H6z"/></svg></span>
+      <span>learnix.</span>
+    </a>
+    <nav id="nav" aria-label="Sections"></nav>
+    <div class="side-foot"><strong>Built for students across Pakistan</strong><span>From your first study plan to exam day.</span></div>
+  </aside>
+
+  <div class="main-wrap">
+    <header class="topbar">
+      <p class="eyebrow" id="today"></p>
+      <div class="top-actions">
+        <div class="appearance-controls"><button class="pill" id="themeBtn" type="button" data-action="toggle-theme"></button><div class="accent-dots" id="accentDots" role="radiogroup" aria-label="Accent colour"><button type="button" class="accent-dot" role="radio" aria-checked="false" data-accent="mono" aria-label="Mono" title="Mono"><i></i></button><button type="button" class="accent-dot" role="radio" aria-checked="false" data-accent="blue" aria-label="Blue" title="Blue"><i></i></button><button type="button" class="accent-dot" role="radio" aria-checked="false" data-accent="green" aria-label="Green" title="Green"><i></i></button><button type="button" class="accent-dot" role="radio" aria-checked="false" data-accent="purple" aria-label="Purple" title="Purple"><i></i></button><button type="button" class="accent-dot" role="radio" aria-checked="false" data-accent="orange" aria-label="Orange" title="Orange"><i></i></button><button type="button" class="accent-dot" role="radio" aria-checked="false" data-accent="rose" aria-label="Rose" title="Rose"><i></i></button></div></div>
+        <div class="profile-wrap">
+          <button class="profile" id="profileBtn" type="button" data-action="toggle-profile" aria-haspopup="dialog" aria-expanded="false" aria-controls="profilePop"></button>
+          <div class="popover" id="profilePop" role="dialog" aria-label="Your profile" hidden>
+            <div class="photo-row">
+              <div class="avatar lg" id="pfPreview"></div>
+              <div class="photo-actions">
+                <label class="btn btn-line btn-sm" for="photoInput" style="cursor:pointer">Add profile photo</label>
+                <input id="photoInput" type="file" accept="image/*" hidden>
+                <button class="linkbtn" id="removePhoto" type="button" data-action="remove-photo" hidden>Remove photo</button>
+              </div>
+            </div>
+            <form id="profile-form" novalidate>
+              <div class="field"><label for="pfName">Name</label><input id="pfName" type="text" autocomplete="name" placeholder="Your full name"></div>
+              <p class="err" id="pfErr" role="alert" hidden></p>
+              <button class="btn btn-primary" type="submit">Save profile</button>
+            </form>
+            <div class="profile-account-actions">
+              <button class="btn btn-line" type="button" data-action="sign-out">Sign out</button>
+              <button class="btn btn-danger" type="button" data-action="delete-account">Delete account</button>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </header>
+    <main id="view"></main>
+  </div>
+</div>
+<div id="modalRoot"></div>
+<div id="onboardingRoot"></div>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+  <script type="module" src="assets/js/firebase-auth.js"></script>
+  <script src="assets/js/dashboard.js" defer></script>
+  <!-- <script src="assets/js/tests.js" defer></script> -->
+  <script src="assets/js/feedback.js" defer></script>
+</body>
+</html>
