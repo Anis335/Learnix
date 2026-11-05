@@ -20,4 +20,7 @@ const port = Number(process.env.PORT || 3000);
 app.listen(port, () => {
   console.log(`Learnix website running at http://localhost:${port}`);
 });
+app.get('/', (req, res) => {
+    res.status(200).json({ message: "Backend server is running successfully!" });
+});
 
