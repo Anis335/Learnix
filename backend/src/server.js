@@ -7,20 +7,12 @@ require('dotenv').config();
 
 const app = require('./app');
 
-// Serve frontend static files
-const frontendDir = path.resolve(__dirname, '../../frontend');
-app.use(express.static(frontendDir));
-
-// Fallback for SPA routing if needed
-app.get('/', (_req, res) => {
-  res.sendFile(path.join(frontendDir, 'index.html'));
-});
-
-const port = Number(process.env.PORT || 3000);
-app.listen(port, () => {
-  console.log(`Learnix website running at http://localhost:${port}`);
-});
+// Root API health check route
 app.get('/', (req, res) => {
     res.status(200).json({ message: "Backend server is running successfully!" });
 });
 
+const port = Number(process.env.PORT || 3000);
+app.listen(port, () => {
+    console.log(`Backend server running at http://localhost:${port}`);
+});
