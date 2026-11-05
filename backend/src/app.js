@@ -9,8 +9,8 @@ function initFirebaseAdmin() {
   return admin.auth();
 }
 const app=express(); app.disable('x-powered-by'); app.use(express.json({limit:'25mb'}));
-const allowed=(process.env.ALLOWED_ORIGINS||'https://learnix.netlify.app,http://localhost:8888,http://localhost:3000').split(',').map(x=>x.trim());
-app.use((req,res,next)=>{const o=req.headers.origin;if(o&&(allowed.includes(o)||/^https:\/\/[a-z0-9-]+--learnix\.netlify\.app$/i.test(o))){res.setHeader('Access-Control-Allow-Origin',o);res.setHeader('Vary','Origin');}res.setHeader('Access-Control-Allow-Headers','Authorization, Content-Type');res.setHeader('Access-Control-Allow-Methods','GET, POST, OPTIONS');if(req.method==='OPTIONS')return res.sendStatus(204);next();});
+const allowed=(process.env.ALLOWED_ORIGINS||'https://learnix.netlify.app,http://localhost:8888,http://localhost:3000').split(',').map(x=>x.trim().replace(/\/+$/, ''));
+app.use((req,res,next)=>{const o=req.headers.origin?req.headers.origin.replace(/\/+$/, ''):'';if(o&&(allowed.includes(o)||/^https:\/\/[a-z0-9-]+--learnix\.netlify\.app$/i.test(o))){res.setHeader('Access-Control-Allow-Origin',req.headers.origin);res.setHeader('Vary','Origin');}res.setHeader('Access-Control-Allow-Headers','Authorization, Content-Type');res.setHeader('Access-Control-Allow-Methods','GET, POST, OPTIONS');if(req.method==='OPTIONS')return res.sendStatus(204);next();});
 app.use('/api/tests', require('./tests'));
 app.use('/api/papers', require('./papers'));
 async function requireAuth(req,res,next){try{const m=/^Bearer\s+(.+)$/i.exec(req.headers.authorization||'');if(!m)return res.status(401).json({error:'Sign in with Google to use Learnix AI.'});req.user=await initFirebaseAdmin().verifyIdToken(m[1]);next();}catch(e){res.status(401).json({error:'Your session is invalid or expired. Please sign in again.'});}}
