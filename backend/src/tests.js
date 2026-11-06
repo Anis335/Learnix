@@ -140,25 +140,35 @@ router.get('/subjects',auth,async(req,res)=>{
 });
 router.post('/generate',auth,rateLimit,async(req,res)=>{
   try{
-    const {profile,state}=await getProfile(req.user.uid);
-    const {subject,type}=req.body||{};
+    const {subject,type,board,classLevel}=req.body||{};
+    // Validate inputs
     if(!['mcq','short','long'].includes(type))return res.status(400).json({error:'Choose MCQ, short-question, or long-question test.'});
-    if(type==='mcq' && (profile.board!=='federal' || profile.classLevel!=='9'))return res.status(403).json({error:'MCQ tests are available only for Federal Board Class 9 students.'});
-    const chapters=validateSubject(profile,state,subject);
+    const allowedBoards=['federal','karachi'];
+    const allowedClasses=['9','10'];
+    const allowedSubjects=['Mathematics','Physics','Chemistry','Biology','Computer Science','English','Urdu','Islamiyat','Pakistan Studies','General Mathematics','General Science','Tarjuma Quran Majeed','Islamiat'];
+    if(!board||!allowedBoards.includes(board))return res.status(400).json({error:'Choose Federal Board or Karachi Board.'});
+    if(!classLevel||!allowedClasses.includes(String(classLevel)))return res.status(400).json({error:'Choose Class 9 or Class 10.'});
+    if(!subject||typeof subject!=='string'||!allowedSubjects.some(s=>s.toLowerCase()===subject.toLowerCase()))return res.status(400).json({error:'That subject is not available for MCQ tests.'});
+    // Build a minimal profile object for chapter/bank lookups
+    const profile={board,classLevel:String(classLevel),group:'biology'};
+    // Look up chapters from catalog
+    const chapters=canonicalChapters(profile,subject);
     const count=type==='mcq'?30:type==='short'?10:5;
     let questions,source='gemini';
-    try{if(!chapters.length)throw new Error('No verified AI chapter list is available.');questions=await generateWithGemini(profile,subject,type,chapters,count);}
-    catch(aiError){
+    try{
+      if(!chapters.length)throw new Error('No verified chapter list is available for this subject.');
+      questions=await generateWithGemini(profile,subject,type,chapters,count);
+    }catch(aiError){
       source='question-bank';
       questions=bankQuestions(profile,subject,type,chapters,count);
       if(questions.length<count){
-        return res.status(503).json({error:`Gemini is unavailable and the verified fallback bank has only ${questions.length} suitable ${type} questions for ${subject}. Please try again later. No questions from another syllabus were used.`,fallbackAvailable:questions.length});
+        return res.status(503).json({error:`Gemini is unavailable and the offline question bank has only ${questions.length} suitable ${type} questions for ${subject}. Please try again later.`,fallbackAvailable:questions.length});
       }
     }
     questions=shuffle(questions);
     if(type==='mcq') questions=questions.map(q=>{const opts=shuffle(q.options);return {...q,options:opts};});
     const testId=crypto.randomUUID(),now=Date.now(),durationSeconds=type==='mcq'?30*60:type==='short'?25*60:45*60;
-    const test={testId,uid:req.user.uid,board:profile.board,classLevel:profile.classLevel,group:profile.group,subject,type,source,
+    const test={testId,uid:req.user.uid,board,classLevel:String(classLevel),group:profile.group,subject,type,source,
       createdAt:new Date(now).toISOString(),expiresAt:new Date(now+4*60*60*1000).toISOString(),durationSeconds,
       questions,answers:null,result:null,submittedAt:null};
     await firestore().doc(`users/${req.user.uid}/tests/${testId}`).create(test);

@@ -55,7 +55,7 @@ function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&am
 function uid(){return Math.random().toString(36).slice(2,9)}
 
 /* ---------- dates ---------- */
-var NAV=[['dashboard','Dashboard','dash'],['syllabus','My Syllabus','book'],['keynotes','Keynotes','note'],['chatbot','Linux AI','chat'],['paper-generator','Exam Paper','paper'],['feedback','Feedbacks & Reviews','star'],['coming-soon','Courses','book']];
+var NAV=[['dashboard','Dashboard','dash'],['syllabus','My Syllabus','book'],['keynotes','Keynotes','note'],['chatbot','Linux AI','chat'],['tests','MCQ Tests','test'],['paper-generator','Exam Paper','paper'],['feedback','Feedbacks & Reviews','star'],['coming-soon','Courses','book']];
 var SUBJECT_OPTIONS=['Mathematics','General Mathematics','Urdu','English','Chemistry','Physics','General Science','Computer Science','Biology','Tarjuma Quran Majeed','Islamiat','Pakistan Studies','Other'];
 var DAYS=['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
 var DAYS_LONG=['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
