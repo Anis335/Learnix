@@ -5,6 +5,18 @@ const express = require('express');
 require('dotenv').config({ path: path.resolve(__dirname, '../.env') });
 require('dotenv').config();
 
+if (process.env.GOOGLE_APPLICATION_CREDENTIALS && !path.isAbsolute(process.env.GOOGLE_APPLICATION_CREDENTIALS)) {
+  const candidate = path.resolve(__dirname, '../..', process.env.GOOGLE_APPLICATION_CREDENTIALS);
+  if (require('fs').existsSync(candidate)) {
+    process.env.GOOGLE_APPLICATION_CREDENTIALS = candidate;
+  } else {
+    const candidate2 = path.resolve(__dirname, '..', process.env.GOOGLE_APPLICATION_CREDENTIALS);
+    if (require('fs').existsSync(candidate2)) {
+      process.env.GOOGLE_APPLICATION_CREDENTIALS = candidate2;
+    }
+  }
+}
+
 const app = require('./app');
 
 // Serve frontend static files
